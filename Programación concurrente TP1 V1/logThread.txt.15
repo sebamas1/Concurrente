@@ -1,0 +1,8 @@
+abr 14, 2019 3:25:40 AM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 3:25:40 AM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 8 ocupados
+abr 14, 2019 3:25:42 AM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado WAITING y el buffer tiene 0 ocupados
+abr 14, 2019 3:25:42 AM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TERMINATED y el buffer tiene 0 ocupados

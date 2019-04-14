@@ -1,0 +1,140 @@
+abr 14, 2019 4:00:15 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 6 ocupados
+abr 14, 2019 4:00:15 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 6 ocupados
+abr 14, 2019 4:00:17 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:17 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:19 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:19 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:21 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:21 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:23 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:23 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:25 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:25 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:27 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:27 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:29 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:29 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:31 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:31 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:33 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:33 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:35 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:35 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:37 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:37 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:39 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:39 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:41 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:41 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:43 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:43 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:45 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:45 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:47 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:47 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:49 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:49 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:51 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:51 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:53 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:53 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:55 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:55 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:57 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:57 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:59 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:00:59 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:01 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:01 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:03 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:03 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:05 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:05 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:07 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:07 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:09 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:09 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:11 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:11 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:13 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:13 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:15 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:15 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:17 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:17 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:19 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:19 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:21 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:21 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:23 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 1 y estoy en el estado BLOCKED y el buffer tiene 9 ocupados
+abr 14, 2019 4:01:23 PM tp1.Log run
+INFORMACIÓN: Soy el consumidor 2 y estoy en el estado TIMED_WAITING y el buffer tiene 9 ocupados
